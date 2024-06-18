@@ -1,0 +1,13 @@
+#fundo{
+    background: #f0f0f0;
+    width: 100vw;    
+    height: 100vh;
+    margin: 5px;
+    max-height:100vh;
+    overflow: auto;
+}
+#objeto{
+    height: 3000px;
+    width: 250px;
+    background: #000;
+}
